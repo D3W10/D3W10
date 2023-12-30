@@ -26,16 +26,16 @@ As my hobbies I enjoy photography and I like traveling to other countries.
 
 ### General Stats
 <a href="#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=D3W10&hide_title=true&show_icons=true&border_radius=10&hide_border=true&theme=default#gh-light-mode-only" />
+    <img src="https://gh-stats-d3w10.vercel.app/api?username=D3W10&hide_title=true&show_icons=true&border_radius=10&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" />
 </a>
 <a href="#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=D3W10&hide_title=true&show_icons=true&border_radius=10&hide_border=true&theme=dark#gh-dark-mode-only" />
+    <img src="https://gh-stats-d3w10.vercel.app/api?username=D3W10&hide_title=true&show_icons=true&border_radius=10&include_all_commits=true&hide_border=true&theme=dark#gh-dark-mode-only" />
 </a>
 
 ### Most Used Languages
 <a href="#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3W10&langs_count=5&hide_title=true&border_radius=10&hide_border=true&theme=default#gh-light-mode-only" />
+    <img src="https://gh-stats-d3w10.vercel.app/api/top-langs?username=D3W10&langs_count=5&hide_title=true&border_radius=10&hide_border=true&theme=default#gh-light-mode-only" />
 </a>
 <a href="#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3W10&langs_count=5&hide_title=true&border_radius=10&hide_border=true&theme=dark#gh-dark-mode-only" />
+    <img src="https://gh-stats-d3w10.vercel.app/api/top-langs?username=D3W10&langs_count=5&hide_title=true&border_radius=10&hide_border=true&theme=dark#gh-dark-mode-only" />
 </a>
