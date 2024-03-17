@@ -14,13 +14,17 @@
 <br />
 
 ## About Me
-Hey 👋🏻 I'm Daniel, I'm from Lisbon (Portugal) and I ~~like~~ __love__ programming 💻.
-<br />
-Currently doing a degree in informatics, networks and telecommunications engineering at [ISEL](https://www.isel.pt/en) 🎓.
-<br />
-I love making application and websites for both desktop and mobile but I'm also learning how to make games using Unreal Engine.
-<br />
-As my hobbies I enjoy photography and I like traveling to other countries.
+Hey there! I'm Daniel 👋🏻
+
+I'm a 19-year-old student from Lisbon (Portugal) that ~~likes~~ __loves__ programming 💻.
+
+Currently pursuing a degree in Computer Engineering, Networks, and Telecommunications at [ISEL](https://www.isel.pt/en) 🎓.
+
+I enjoy building websites and applications for both desktop and mobile and currently delving into game development using Unreal Engine.
+
+I tend to think in a creative and come up with solutions and ideas, specially when designing interfaces or creating logos.
+
+Apart from coding, I find joy in photography and exploring new places in the world!
 
 ## Stats
 
