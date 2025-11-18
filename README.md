@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-    <img src="https://d3w10.netlify.app/logo.png" alt="Logo" height="50" />
+    <img src="https://d3w10.netlify.app/logo.svg" alt="Logo" height="50" />
     <h2 align="center">Daniel Nunes</h2>
     <h3 align="center">Front-end and back-end developer</h3>
     <p align="center">
