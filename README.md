@@ -16,7 +16,7 @@
 ## About Me
 Hey there! I'm Daniel 👋🏻
 
-I'm a 20-year-old student from Lisbon (Portugal) that ~~likes~~ __loves__ programming 💻.
+I'm a 21-year-old student from Lisbon (Portugal) that ~~likes~~ __loves__ programming 💻.
 
 Currently pursuing a degree in Computer Engineering, Networks, and Telecommunications at [ISEL](https://www.isel.pt/en) 🎓.
 
